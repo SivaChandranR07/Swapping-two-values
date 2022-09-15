@@ -30,6 +30,7 @@ a=temp
 print("The swapped values are:",a,b)
 ```
 ##OUTPUT:
+![output](/outputswap.png)
 
 
 ## RESULT:

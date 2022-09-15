@@ -17,8 +17,19 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:
-
+## PROGRAM:'
+```python
+#Program to swap two values.
+#Developed by: Siva Chandran R
+#RegisterNumber:22005531
+a=int(input())
+b=int(input())
+temp=b
+b=a
+a=temp
+print("The swapped values are:",a,b)
+```
+##OUTPUT:
 
 
 ## RESULT:
